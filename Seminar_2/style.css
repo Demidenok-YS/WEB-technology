@@ -1,0 +1,27 @@
+html{
+    background-color: rgb(104, 229, 229);
+}
+h1{
+    color: #1524cd;
+}
+h2{
+    color: rgb(71, 62, 232);
+}
+a{
+    color: rgb(40, 171, 134);
+}
+img{
+    width: 500px;
+    margin-left: 50px;
+    border: 10px solid #bb15cd;
+}
+.big_text{
+    font-size: 1,5rem;    /* увеличили текст на 50% */
+}
+ul{
+    list-style-type: square;
+}
+.parent{
+    width: 500px;
+    margin: 0 auto;
+}
